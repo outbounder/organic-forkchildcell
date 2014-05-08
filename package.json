@@ -1,6 +1,6 @@
 {
   "name": "organic-forkchildcell",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Forks a cell wrapped as child process using provided dna",
   "main": "index.js",
   "dependencies": {
