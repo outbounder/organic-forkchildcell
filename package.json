@@ -1,0 +1,26 @@
+{
+  "name": "organic-forkchildcell",
+  "version": "0.0.0",
+  "description": "Forks a cell wrapped as child process using provided dna",
+  "main": "index.js",
+  "dependencies": {
+    "organic": "~0.1.1",
+    "organic-plasma": "~0.0.1",
+    "prefixobjpropertyvalues": "~0.0.1",
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/outbounder/organic-forkchildcell.git"
+  },
+  "author": "Boris Filipov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/outbounder/organic-forkchildcell/issues"
+  },
+  "homepage": "https://github.com/outbounder/organic-forkchildcell"
+}
